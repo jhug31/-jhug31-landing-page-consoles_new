@@ -7,3 +7,6 @@
 .inline-flex:hover {
     background-color: #00cc00 !important; /* Vert plus foncé au survol */
 }
+.w-full.grid:empty {
+    display: none !important;
+}

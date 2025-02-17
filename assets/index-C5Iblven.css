@@ -10,3 +10,6 @@
 .w-full.grid:empty {
     display: none !important;
 }
+.w-full.grid:empty {
+    display: none !important;
+}
